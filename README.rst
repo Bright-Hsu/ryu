@@ -61,8 +61,7 @@ Support
 =======
 Ryu Official site is `<https://ryu-sdn.org/>`_.
 
-If you have any
-questions, suggestions, and patches, the mailing list is available at
+If you have any questions, suggestions, and patches, the mailing list is available at
 `ryu-devel ML
 <https://lists.sourceforge.net/lists/listinfo/ryu-devel>`_.
 `The ML archive at Gmane <http://dir.gmane.org/gmane.network.ryu.devel>`_
